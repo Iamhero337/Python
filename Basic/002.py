@@ -5,7 +5,7 @@ salary = int(input("Salary(int): "))
 print("Name:        ",name)
 print("Age:         ",age)
 print("Salary:      ",salary)
-print("Designation: ", end=" ")
+print("Designation:  ", end="")
 
 if salary < 10001:
     print("Unknown")
