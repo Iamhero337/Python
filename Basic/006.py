@@ -8,23 +8,26 @@ bio = float(input("Marks in Bio: "))
 
 grade = (eng+mat+phy+bio)/4
 
-print(f"Roll: {roll}")
-print(f"Name: {name}")
-print(f"Class: {class_}")
-print("Percentage: ", grade, "%")
-print("Grade: ", end="")
+print("+------------------------------------------------+")
+print(f"| Roll:         {roll}                               |")
+print(f"| Name:         {name}                             |")
+print(f"| Class:        {class_}                              |")
+print("| Percentage:  ", grade, "%                           |")
+print("| Grade:         ", end="")
 
 if grade >= 80:
-    print("A")
+    print("A                               |")
 
 elif grade >= 60:
-    print("B")
+    print("B                               |")
 
 elif grade >= 50:
-    print("C")
+    print("C                               |")
 
 elif    grade >= 45:
-    print("D")
+    print("D                               |")
 
 else:
-    print("F")
+    print("F                               |")
+
+print("+------------------------------------------------+")
