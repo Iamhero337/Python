@@ -9,6 +9,7 @@ bio = float(input("Marks in Bio: "))
 grade = (eng+mat+phy+bio)/4
 
 print("+------------------------------------------------+")
+
 print(f"| Roll:         {roll}                               |")
 print(f"| Name:         {name}                             |")
 print(f"| Class:        {class_}                              |")
