@@ -8,4 +8,5 @@ uAcount = char.count('A')
 lacount = char.count('a')
 
 print("Number of Uppercase 'A' is: ", uAcount)
+
 print("Number of Lowercase 'a' is: ", lacount)
