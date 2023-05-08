@@ -165,7 +165,7 @@ Total 1 space found
 
 ## Q-010. 21-08-2021
 Write a program to read all characters until new line ('\n') and duplicate every characters that are entered by user.
-Hint: use putchar() function
+
 
 1.
 Example Input:
@@ -177,7 +177,7 @@ TThhee  qquuiicckk  bbrroowwnn  ffooxx  jjuummppss  oovveerr  tthhee  llaazzyy  
 
 ## Q-011. 21-08-2021
 Write a program to read all characters until End of File  and replace every lowercase alphabets to its corresponding uppercase alphabets.
-Hint: perform arithmetic on character
+
 
 1.
 Example Input:
