@@ -1,11 +1,13 @@
-user_input = input("Enter a string: ")
-caret_string = ""
+uin = input("Give the string: ")
+caret = ""
 
-for char in user_input:
-    if char.isdigit():
-        caret_string += "^"
+for pri in uin:
+    if pri.isdigit():
+        caret += "^"
     else:
-        caret_string += " "
+        caret += " "
 
-print(user_input)
-print(caret_string)
+print(uin)
+print(caret)
+
+
