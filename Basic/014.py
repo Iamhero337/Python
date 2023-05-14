@@ -1,10 +1,6 @@
-line_count = 0
-print("Give the inputs: ")
-try:
-    while True:
-        line = input()
-        line_count += 1
-except EOFError:
-    pass
+import sys
 
-print("Number of lines:", max(0, line_count-1))
+lines = sys.stdin.readlines()
+line_count = len(lines)
+
+print(f"Number of lines: {line_count}")
