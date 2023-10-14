@@ -1,4 +1,9 @@
 i = input()
 
-if i = "Hello" or "H%":
-    print("")
+if i.startswith("Hello"):
+    print("0$")
+elif i.startswith("H"):
+    print("20$")
+
+else:
+    print("100$")
