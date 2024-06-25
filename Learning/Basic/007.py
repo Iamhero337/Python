@@ -1,4 +1,4 @@
-choice = input("\033[1mEnter 'C' to convert from Fahrenheit to Celsius,"
+choice = input("\033[Enter 'C' to convert from Fahrenheit to Celsius,"
                " or 'F' to convert from Celsius to Fahrenheit\n\n"
                "Choice (C/F): \033[0m")
 
