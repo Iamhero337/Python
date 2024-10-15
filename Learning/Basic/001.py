@@ -1,6 +1,6 @@
 name = input("Name: ")
 age = int(input("Age: "))
-salary = int(input("Give salary in INTEGER: "))
+salary = float(input("Give salary in: "))
 
 print(name)
 
