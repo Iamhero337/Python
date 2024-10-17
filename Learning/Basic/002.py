@@ -1,6 +1,6 @@
-name = input("Name: ")
+name = str(input("Name: "))
 age = int(input("Age(int): "))
-salary = int(input("Salary(int): "))
+salary = float(input("Salary(int): "))
 
 print("Name:        ",name)
 print("Age:         ",age)
