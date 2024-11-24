@@ -1,7 +1,7 @@
 u_in = input("Give the string: ")
 final = ""
 
-for inputs in u_in:
-    final += inputs * 2
+for chars in u_in:
+    final += chars * 2
 
 print("Final output: ", final)

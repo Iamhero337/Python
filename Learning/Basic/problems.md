@@ -45,11 +45,11 @@ LEAP YEAR
 
 
 ## Q-005. 08-08-2021
-Given three sides of a triangle a, b and c, check whether the triangle is equilateral, scalence, or isosceles.
+Given three sides of a triangle a, b and c, check whether the triangle is equilateral, scalene, or isosceles.
 A triangle is:
 Equilateral - All three sides are equal
 Isosceles - Any two sides are equal
-Scalence - All sides are unequal
+Scalene - All sides are unequal
 
 1.
 Example Input:
@@ -57,7 +57,7 @@ Side A: 5
 Side B: 6
 Side C: 7
 Example Output:
-The triangle is Scalence.
+The triangle is Scalene.
 
 2.
 Example Input:
@@ -195,7 +195,7 @@ Example Output:
 
 
 ## Q-012. 21-08-2021
-Write a program to read all characters until new line and point out all occurence of digits in the string.
+Write a program to read all characters until new line and point out all occurrence of digits in the string.
 
 1.
 Example Input:
