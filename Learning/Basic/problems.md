@@ -276,7 +276,7 @@ So the output should be exactly as input.
 
 
 ## Q-016. 24-08-2021
-Write a program to read all characters until End of File and print every word in seperate line.
+Write a program to read all characters until End of File and print every word in separate line.
 
 HINT: You can use the logic of word counting program here.
 

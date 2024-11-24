@@ -1,7 +1,7 @@
 import sys
 import re
 
-print("Give the inputs:" ,end="")  # Print the prompt before taking the input
+print("Give the inputs:" , end="")
 
 lines = sys.stdin.readlines()  # Read all lines until EOF
 
