@@ -579,7 +579,7 @@ Example Output:
 
 
 ## Q-028. 04-09-2021
-Write a program to find the result of following searies upto first n term.
+Write a program to find the result of following series upto first n term.
 1 + 1/2 + 1/3 + ... + 1/n
 
 1.
@@ -591,7 +591,7 @@ Example Output:
 
 
 ## Q-029. 04-09-2021
-Write a program to find the result of following searies upto first n term.
+Write a program to find the result of following series upto first n term.
 1 + 1/2^2 + 1/3^2 + ... + 1/n^2
 
 1.
@@ -603,7 +603,7 @@ Example Output:
 
 
 ## Q-030. 04-09-2021
-Write a program to find the result of following searies upto first n term.
+Write a program to find the result of following series upto first n term.
 2 + 1 + 4 + 3 + ...
 
 1.
