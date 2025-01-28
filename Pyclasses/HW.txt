@@ -1,0 +1,51 @@
+1.WAP to find sum division product (all) of two diffrent intigers.
+2. Find area of a rectangle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wap given string is keyword or not.
+WAP to check the first letter of a str is vowel or not.
+WAP to reverse the string if it is a palindrome if not then print len of it.
+Consider a tuple of len 2 and check weather is it homogenious or not.
+WAP to check weather the given interger is multiple of 9 or 6.
+
+
+#28-01-24
+
+
+to check weather the given charecter is vowel or consonent, if given char is vowel store the char inside the list else display ASCI char value.
+
+to find out greatest of three numbers by using elif
+
+
+
+WAP to check weather given char is alphabet. print same char 5 times if it is a alphabet. find out ASCI value if it is sp.char of that char and add +5 and convert in ASCI char(Normal). If char is ASCI number then print character division by 5. then print the output...
+
+WAP to check weather given char is uppercase print by converting it into lowercase.(without function)
+
+WAP to check given character is ASCI number print ASCI value.
+
+WAP to check weather given char is uppercase print lowercase. or if given char is lower then print uppercase. or if given char is  sp.char find ASCI value and add 8 and convert into back into ASCI char(normal)
+
+
+WAP check the last char of the string is sp.char or not.
+
+
+WAP to check middle value of hetrogenious tuple collection is intiger or not.
+
+WAP to check the given number is single digit double digit triple digit or more than that, then print how many digits are there.
+
+WAP to check given data is which individual data type.
