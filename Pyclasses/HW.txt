@@ -1,51 +1,24 @@
-1.WAP to find sum division product (all) of two diffrent intigers.
-2. Find area of a rectangle.
+You're right. I'll ensure all the questions remain intact and are formatted properly without altering their content.
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Wap given string is keyword or not.
-WAP to check the first letter of a str is vowel or not.
-WAP to reverse the string if it is a palindrome if not then print len of it.
-Consider a tuple of len 2 and check weather is it homogenious or not.
-WAP to check weather the given interger is multiple of 9 or 6.
-
+1. WAP to find sum, division, and product of two different integers.
+2. Find the area of a rectangle.
+3. WAP to check whether a given string is a keyword or not.
+4. WAP to check the first letter of a string is a vowel or not.
+5. WAP to reverse the string if it is a palindrome; if not, then print its length.
+6. Consider a tuple of length 2 and check whether it is homogeneous or not.
+7. WAP to check whether the given integer is a multiple of 9 or 6.
 
 #28-01-24
 
-
-to check weather the given charecter is vowel or consonent, if given char is vowel store the char inside the list else display ASCI char value.
-
-to find out greatest of three numbers by using elif
-
-
-
-WAP to check weather given char is alphabet. print same char 5 times if it is a alphabet. find out ASCI value if it is sp.char of that char and add +5 and convert in ASCI char(Normal). If char is ASCI number then print character division by 5. then print the output...
-
-WAP to check weather given char is uppercase print by converting it into lowercase.(without function)
-
-WAP to check given character is ASCI number print ASCI value.
-
-WAP to check weather given char is uppercase print lowercase. or if given char is lower then print uppercase. or if given char is  sp.char find ASCI value and add 8 and convert into back into ASCI char(normal)
-
-
-WAP check the last char of the string is sp.char or not.
-
-
-WAP to check middle value of hetrogenious tuple collection is intiger or not.
-
-WAP to check the given number is single digit double digit triple digit or more than that, then print how many digits are there.
-
-WAP to check given data is which individual data type.
+8. WAP to check whether the given character is a vowel or consonant. If the given character is a vowel, store it inside the list; else display the ASCII character value.
+9. WAP to find out the greatest of three numbers by using `elif`.
+10. WAP to check whether the given character is an alphabet. Print the same character 5 times if it is an alphabet. Find out the ASCII value if it is a special character, add +5, and convert it back into a normal ASCII character. If the character is an ASCII number, then print the character division by 5. Print the output.
+11. WAP to check whether the given character is uppercase and print it by converting it into lowercase (without using functions).
+12. WAP to check whether the given character is an ASCII number and print its ASCII value.
+13. WAP to check whether the given character is uppercase, then print lowercase. If the given character is lowercase, print uppercase. If the given character is a special character, find its ASCII value, add 8, and convert it back into a normal ASCII character.
+14. WAP to check whether the last character of the string is a special character or not.
+15. WAP to check whether the middle value of a heterogeneous tuple collection is an integer or not.
+16. WAP to check whether the given number is a single-digit, double-digit, triple-digit, or more than that. Then print how many digits are there.
+17. WAP to check which individual data type the given data belongs to.
