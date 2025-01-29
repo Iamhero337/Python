@@ -14,8 +14,7 @@ You're right. I'll ensure all the questions remain intact and are formatted prop
 
 8. WAP to check whether the given character is a vowel or consonant. If the given character is a vowel, store it inside the list; else display the ASCII character value.
 9. WAP to find out the greatest of three numbers by using `elif`.
-
-10. WAP to check whether the given character is an alphabet. Print the same character 5 times if it is an alphabet. Find out the ASCII value if it is a special character, add +5, and convert it back into a normal ASCII character. If the character is an ASCII number, then print the character division by 5. Print the output.
+10. WAP to check whether the given character is an alphabet. Print the same character 5 times if it is an alphabet.if it is a digit then divide it by 5 and print it, and if it is a ascii value then add 5 and print it in a normal char.
 11. WAP to check whether the given character is uppercase and print it by converting it into lowercase (without using functions).
 12. WAP to check whether the given character is an ASCII number and print its ASCII value.
 13. WAP to check whether the given character is uppercase, then print lowercase. If the given character is lowercase, print uppercase. If the given character is a special character, find its ASCII value, add 8, and convert it back into a normal ASCII character.
@@ -23,3 +22,14 @@ You're right. I'll ensure all the questions remain intact and are formatted prop
 15. WAP to check whether the middle value of a heterogeneous tuple collection is an integer or not.
 16. WAP to check whether the given number is a single-digit, double-digit, triple-digit, or more than that. Then print how many digits are there.
 17. WAP to check which individual data type the given data belongs to.
+
+#29-01-24
+nested if
+
+18. WAP to instagram login page.
+19. WAP to check greatest of 4 numbers using `nested if`.
+20. WAP to print middle value of the given heterogeneous tuple collection only if the middle value is string and having length greater than 3.
+21. WAP to print first value of tuple if it is a string having length greater than 5. and that string should be palindrome.
+22. WAP to print reverse string only if is starting with vowel and ending with consonant and it should have middle value.
+23. WAP to print the last value of the list only if it palindrome starting with vowel.
+24. WAP to print the value present in even index of tuple only if the lenght of the tuple is odd and having first value as intiger.
