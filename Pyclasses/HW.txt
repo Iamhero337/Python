@@ -14,6 +14,7 @@ You're right. I'll ensure all the questions remain intact and are formatted prop
 
 8. WAP to check whether the given character is a vowel or consonant. If the given character is a vowel, store it inside the list; else display the ASCII character value.
 9. WAP to find out the greatest of three numbers by using `elif`.
+
 10. WAP to check whether the given character is an alphabet. Print the same character 5 times if it is an alphabet. Find out the ASCII value if it is a special character, add +5, and convert it back into a normal ASCII character. If the character is an ASCII number, then print the character division by 5. Print the output.
 11. WAP to check whether the given character is uppercase and print it by converting it into lowercase (without using functions).
 12. WAP to check whether the given character is an ASCII number and print its ASCII value.
