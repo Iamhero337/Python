@@ -44,7 +44,32 @@ normal programming.
 #while
 
 26. WAP to consider an input string, print the string as it is if it is a palindrome, print the reverse string if it is having even numbers of chars. print all the char in the odd  number index if the string is having odd numbers of chars.
-
 27. WAP to print all the numbers which are divisible by 5 till 100.
+28. take 1 var find the sum n'th natural number.
 
-28. take 1 var find the sum n'th natural number
+#05-02-25
+
+29. WAP to extract all lthe lower case char in the given string.
+
+30. WAP to extract all the sp.char present inside the given string.
+31. WAP to extract all the int numbers from the given list.
+32. WAP to extract all the value present in even index in a given tuple without using slicing.
+
+33. WAP to print all the values prsent at even index from the given list only if it is a float number.
+34. WAP to find the sum of all the intiger numbers present inside the given tuples.
+35. WAP to check given strin is palindrome or not without using slicing.
+36. WAP to find product of all the float number present at odd index in the given list.
+37. extract all the lowercase uppercase numbers and sp.char from diffrent diffrent input string.
+38. WAP to convert all the lowercase char present in the string to uppercase char.
+39. WAP to extract string data items present inside given list only if the it is having lenght more than 3.
+
+40. WAP to extract all the uppercase char present at multiple of 3 index in a given string only if its ascii value is even
+h/w
+
+41. WAP to find the sum of all ascii value of all sp.char present inside the given string.
+42. extract all the intiger numbers present inside the given tuple only if the number is having more than 2 digits.(do anything)
+43. WAP to extract all the palindrome string present inside the given list.
+44. WAP to reverse the given number w/o using typecasting and slicing.
+45. WAP to toggle the given string(upper to lower and vice versa) if it is char or number then keep it as it is.
+46. WAP to remove all the duplicate values from the given list w/o typecasting.
+47. WAP to replace the space present inside a string by an _.
