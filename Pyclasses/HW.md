@@ -73,3 +73,13 @@ h/w
 45. WAP to toggle the given string(upper to lower and vice versa) if it is char or number then keep it as it is.
 46. WAP to remove all the duplicate values from the given list w/o typecasting.
 47. WAP to replace the space present inside a string by an _.
+
+#06-02-25
+48. WAP to check weather the given number is palindrome or not without using slicing or typecasting.
+49. WAP to count the number of occurance of a specified character in a given string.
+50. WAP to check weather the number is prime number or not.
+51. WAP to print the factor of the given int.
+52. print the prime numbers 1 to 100.
+53. to extract all the svd present inside the given list.
+54. WAP to extract all the vowels present inside the given string.
+
