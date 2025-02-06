@@ -82,4 +82,15 @@ h/w
 52. print the prime numbers 1 to 100.
 53. to extract all the svd present inside the given list.
 54. WAP to extract all the vowels present inside the given string.
+55. WAP to extract all the digits present at even index from the given string. if the extracted output is palindrome print"happy", if the extracted output has more than 3 char then print the output else print the given string.
+56. WAPT take homogeneous intiger list, divide the input collection into 2 diffrent list. output the first list it should consist of even numbers and the second list which should be only consisting of odd numbers.
+57. WAPT check armstrong number or not.
+58. WAPT map two different list in a from of dictionary.
+59. WAPT following output s1='0010110'
+                          s2='0110001'
+                          o/p:3
+60. Spy number or not.(123 to 1+2+3= 6 and 1*2*3=6)
+61. Perfect number or not.( the sum of the factor should be equal to the number.)
+62. Fibonaaci...
+
 
