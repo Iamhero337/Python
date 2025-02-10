@@ -92,5 +92,13 @@ h/w
 60. Spy number or not.(123 to 1+2+3= 6 and 1*2*3=6)
 61. Perfect number or not.( the sum of the factor should be equal to the number.)
 62. Fibonaaci...
+#08-02-25
+63. WAP to remove all the duplicate values form list.
+64. WAPTE all the key value pair from the dictionary where key's are of svd and values should be mutable LSD.
+65. WAPTE all the key value pair from the dictionary, only if values are of integer data type.
+66.
+
+ WAP to split given string without using split function.
+ WAPTE all the
 
 
