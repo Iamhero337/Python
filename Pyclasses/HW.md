@@ -101,4 +101,13 @@ h/w
  WAP to split given string without using split function.
  WAPTE all the
 
+#13-02-25(break)
+67. WAP take a string then take a char then print the char index in the string.
+68. WAPT check weather the given no. is prime or not.(break)
+69. WAPTC weather the given string is having only lower case alphabet .
+70. WAPTC weather the given list is homo or hetro.
+71. WAPTCWG dict is only having strin keys.
+72. WAPTP smalles factor of the given number.
 
+#14-02-25
+73.
