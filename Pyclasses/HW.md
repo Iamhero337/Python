@@ -111,3 +111,15 @@ h/w
 
 #14-02-25
 73.
+
+
+
+
+
+#19-02-25
+1st user defined progam without para and without return
+WAPT find uppercase alphabet present inside the given string.
+WAPTE intiger numbers present inside odd index only if it is divisible by 5.(use and in first loop then use  if for div by 5)
+
+WAPTE all the string data items from the given list and join them with the help of '*'(operator)
+
