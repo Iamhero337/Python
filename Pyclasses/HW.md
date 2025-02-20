@@ -1,7 +1,3 @@
-You're right. I'll ensure all the questions remain intact and are formatted properly without altering their content.
-
----
-
 1. WAP to find sum, division, and product of two different integers.
 2. Find the area of a rectangle.
 3. WAP to check whether a given string is a keyword or not.
@@ -10,11 +6,11 @@ You're right. I'll ensure all the questions remain intact and are formatted prop
 6. Consider a tuple of length 2 and check whether it is homogeneous or not.
 7. WAP to check whether the given integer is a multiple of 9 or 6.
 
-#28-01-25
+# 28-01-25
 
 8. WAP to check whether the given character is a vowel or consonant. If the given character is a vowel, store it inside the list; else display the ASCII character value.
 9. WAP to find out the greatest of three numbers by using `elif`.
-10. WAP to check whether the given character is an alphabet. Print the same character 5 times if it is an alphabet.if it is a digit then divide it by 5 and print it, and if it is a ascii value then add 5 and print it in a normal char.
+10. WAP to check whether the given character is an alphabet. Print the same character 5 times if it is an alphabet. If it is a digit then divide it by 5 and print it, and if it is an ASCII value then add 5 and print it in a normal char.
 11. WAP to check whether the given character is uppercase and print it by converting it into lowercase (without using functions).
 12. WAP to check whether the given character is an ASCII number and print its ASCII value.
 13. WAP to check whether the given character is uppercase, then print lowercase. If the given character is lowercase, print uppercase. If the given character is a special character, find its ASCII value, add 8, and convert it back into a normal ASCII character.
@@ -23,103 +19,85 @@ You're right. I'll ensure all the questions remain intact and are formatted prop
 16. WAP to check whether the given number is a single-digit, double-digit, triple-digit, or more than that. Then print how many digits are there.
 17. WAP to check which individual data type the given data belongs to.
 
-#29-01-25
-nested if
+# 29-01-25 (Nested If)
 
-18. WAP to instagram login page.
+18. WAP to Instagram login page.
+19. WAP to check the greatest of 4 numbers using `nested if`.
+20. WAP to print the middle value of the given heterogeneous tuple collection only if the middle value is a string and has a length greater than 3.
+21. WAP to print the first value of a tuple if it is a string having a length greater than 5 and that string should be a palindrome.
+22. WAP to print the reverse string only if it starts with a vowel and ends with a consonant and it should have a middle value.
+23. WAP to print the last value of the list only if it is a palindrome starting with a vowel.
+24. WAP to print the value present at even index of a tuple only if the length of the tuple is odd and has the first value as an integer.
 
-19. WAP to check greatest of 4 numbers using `nested if`.
-20. WAP to print middle value of the given heterogeneous tuple collection only if the middle value is string and having length greater than 3.
-21. WAP to print first value of tuple if it is a string having length greater than 5. and that string should be palindrome.
-22. WAP to print reverse string only if is starting with vowel and ending with consonant and it should have middle value.
-23. WAP to print the last value of the list only if it palindrome starting with vowel.
-24. WAP to print the value present in even index of tuple only if the lenght of the tuple is odd and having first value as intiger.
+# 04-02-25 (Normal Programming)
 
+25. WAP to print the middle character of a given string only if it is an uppercase character.
 
-#04-02-25
-normal programming.
+# While
 
-25. WAP to print middle char of given string only if it is uppercase char.
-
-#while
-
-26. WAP to consider an input string, print the string as it is if it is a palindrome, print the reverse string if it is having even numbers of chars. print all the char in the odd  number index if the string is having odd numbers of chars.
+26. WAP to consider an input string, print the string as it is if it is a palindrome, print the reverse string if it has an even number of characters, and print all the characters at the odd-numbered index if the string has an odd number of characters.
 27. WAP to print all the numbers which are divisible by 5 till 100.
-28. take 1 var find the sum n'th natural number.
+28. Take 1 variable, find the sum of the first `n` natural numbers.
 
-#05-02-25
+# 05-02-25
 
-29. WAP to extract all lthe lower case char in the given string.
+29. WAP to extract all lowercase characters in the given string.
+30. WAP to extract all the special characters present inside the given string.
+31. WAP to extract all the integer numbers from the given list.
+32. WAP to extract all the values present at even indexes in a given tuple without using slicing.
+33. WAP to print all the values present at even indexes from the given list only if it is a float number.
+34. WAP to find the sum of all the integer numbers present inside the given tuple.
+35. WAP to check whether the given string is a palindrome or not without using slicing.
+36. WAP to find the product of all the float numbers present at odd indexes in the given list.
+37. Extract all lowercase, uppercase, numbers, and special characters from different input strings.
+38. WAP to convert all lowercase characters present in the string to uppercase characters.
+39. WAP to extract string data items present inside the given list only if it has a length greater than 3.
+40. WAP to extract all uppercase characters present at multiples of 3 indexes in a given string only if its ASCII value is even.
 
-30. WAP to extract all the sp.char present inside the given string.
-31. WAP to extract all the int numbers from the given list.
-32. WAP to extract all the value present in even index in a given tuple without using slicing.
+# Homework
 
-33. WAP to print all the values prsent at even index from the given list only if it is a float number.
-34. WAP to find the sum of all the intiger numbers present inside the given tuples.
-35. WAP to check given strin is palindrome or not without using slicing.
-36. WAP to find product of all the float number present at odd index in the given list.
-37. extract all the lowercase uppercase numbers and sp.char from diffrent diffrent input string.
-38. WAP to convert all the lowercase char present in the string to uppercase char.
-39. WAP to extract string data items present inside given list only if the it is having lenght more than 3.
+41. WAP to find the sum of all ASCII values of special characters present inside the given string.
+42. Extract all integer numbers present inside the given tuple only if the number has more than 2 digits.
+43. WAP to extract all the palindrome strings present inside the given list.
+44. WAP to reverse the given number without using typecasting and slicing.
+45. WAP to toggle the given string (uppercase to lowercase and vice versa). If it is a character or number, then keep it as it is.
+46. WAP to remove all duplicate values from the given list without typecasting.
+47. WAP to replace spaces present inside a string with an underscore `_`.
 
-40. WAP to extract all the uppercase char present at multiple of 3 index in a given string only if its ascii value is even
-h/w
+# 06-02-25
 
-41. WAP to find the sum of all ascii value of all sp.char present inside the given string.
-42. extract all the intiger numbers present inside the given tuple only if the number is having more than 2 digits.(do anything)
-43. WAP to extract all the palindrome string present inside the given list.
-44. WAP to reverse the given number w/o using typecasting and slicing.
-45. WAP to toggle the given string(upper to lower and vice versa) if it is char or number then keep it as it is.
-46. WAP to remove all the duplicate values from the given list w/o typecasting.
-47. WAP to replace the space present inside a string by an _.
-
-#06-02-25
-48. WAP to check weather the given number is palindrome or not without using slicing or typecasting.
-49. WAP to count the number of occurance of a specified character in a given string.
-50. WAP to check weather the number is prime number or not.
-51. WAP to print the factor of the given int.
-52. print the prime numbers 1 to 100.
-53. to extract all the svd present inside the given list.
+48. WAP to check whether the given number is a palindrome or not without using slicing or typecasting.
+49. WAP to count the number of occurrences of a specified character in a given string.
+50. WAP to check whether the number is a prime number or not.
+51. WAP to print the factors of the given integer.
+52. Print prime numbers from 1 to 100.
+53. Extract all the SVD present inside the given list.
 54. WAP to extract all the vowels present inside the given string.
-55. WAP to extract all the digits present at even index from the given string. if the extracted output is palindrome print"happy", if the extracted output has more than 3 char then print the output else print the given string.
-56. WAPT take homogeneous intiger list, divide the input collection into 2 diffrent list. output the first list it should consist of even numbers and the second list which should be only consisting of odd numbers.
-57. WAPT check armstrong number or not.
-58. WAPT map two different list in a from of dictionary.
-59. WAPT following output s1='0010110'
-                          s2='0110001'
-                          o/p:3
-60. Spy number or not.(123 to 1+2+3= 6 and 1*2*3=6)
-61. Perfect number or not.( the sum of the factor should be equal to the number.)
-62. Fibonaaci...
-#08-02-25
-63. WAP to remove all the duplicate values form list.
-64. WAPTE all the key value pair from the dictionary where key's are of svd and values should be mutable LSD.
-65. WAPTE all the key value pair from the dictionary, only if values are of integer data type.
-66.
+55. WAP to extract all the digits present at even indexes from the given string. If the extracted output is a palindrome, print "happy"; if the extracted output has more than 3 characters, then print the output; else print the given string.
 
- WAP to split given string without using split function.
- WAPTE all the
+# 08-02-25
 
-#13-02-25(break)
-67. WAP take a string then take a char then print the char index in the string.
-68. WAPT check weather the given no. is prime or not.(break)
-69. WAPTC weather the given string is having only lower case alphabet .
-70. WAPTC weather the given list is homo or hetro.
-71. WAPTCWG dict is only having strin keys.
-72. WAPTP smalles factor of the given number.
+63. WAP to remove all the duplicate values from a list.
+64. WAP to extract all key-value pairs from the dictionary where keys are SVD and values should be mutable LSD.
+65. WAP to extract all key-value pairs from the dictionary, only if values are of integer data type.
+66. WAP to split a given string without using the `split` function.
 
-#14-02-25
-73.
+# 13-02-25 (Break)
 
+67. WAP to take a string, then take a character, then print the character's index in the string.
+68. WAP to check whether the given number is prime or not (using break).
+69. WAP to check whether the given string has only lowercase alphabets.
+70. WAP to check whether the given list is homogeneous or heterogeneous.
+71. WAP to check whether the given dictionary only has string keys.
+72. WAP to print the smallest factor of the given number.
 
+# 19-02-25 (User-defined Functions(type 1-3))
 
+73. WAP to find uppercase alphabets present inside the given string.
+74. WAP to extract integer numbers present at odd indexes only if they are divisible by 5.
 
-
-#19-02-25
-1st user defined progam without para and without return
-WAPT find uppercase alphabet present inside the given string.
-WAPTE intiger numbers present inside odd index only if it is divisible by 5.(use and in first loop then use  if for div by 5)
-
-WAPTE all the string data items from the given list and join them with the help of '*'(operator)
-
+# 20-02-25 (User-defined func(type 4))
+75. WAP to extract all string data items from the given list and join them with the `*` operator.
+76. WAP to create 4 different function to perform addtion, substraction, mulliplication and division.
+77. WAPTE all the digits from the given string.
+78.  reverse a string and keep the words as it is( I love you, you love I).
