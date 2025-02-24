@@ -102,4 +102,4 @@
 77. WAPTE all the digits from the given string.
 78.  reverse a string and keep the words as it is( I love you, you love I).
 # 24-02-25
-79.
+79. take input:'hello* hI byE bye' and output:'hELLO* HI BYE bye'.
