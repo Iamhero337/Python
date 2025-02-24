@@ -101,3 +101,5 @@
 76. WAP to create 4 different function to perform addtion, substraction, mulliplication and division.
 77. WAPTE all the digits from the given string.
 78.  reverse a string and keep the words as it is( I love you, you love I).
+# 24-02-25
+79.
