@@ -97,9 +97,26 @@
 74. WAP to extract integer numbers present at odd indexes only if they are divisible by 5.
 
 # 20-02-25 (User-defined func(type 4))
+
 75. WAP to extract all string data items from the given list and join them with the `*` operator.
 76. WAP to create 4 different function to perform addtion, substraction, mulliplication and division.
 77. WAPTE all the digits from the given string.
 78.  reverse a string and keep the words as it is( I love you, you love I).
+
 # 24-02-25
+
 79. take input:'hello* hI byE bye' and output:'hELLO* HI BYE bye'.
+
+# 26-02-25 (Packing)
+
+80. WAP to extract all the key value pairs from dictionary only if length of key is exactly equal to 3 and value should be of list collection.
+81. WAP to extract al key value paris from the dictionary only if key and value are exactly equal.
+
+
+# 27-02-26 (Recusion)
+82. WAP to find the sum of n natural numbers.
+83. WAP to Extract string data items in the given list collection.
+
+84. WAP to count the no. of uppercase alphabets present inside the given string using recursion.
+85. WAP to print all the list data items present present inside the given tuple only if the list is having middle value.
+
