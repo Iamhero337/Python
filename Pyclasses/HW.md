@@ -118,5 +118,5 @@
 83. WAP to Extract string data items in the given list collection.
 
 84. WAP to count the no. of uppercase alphabets present inside the given string using recursion.
-85. WAP to print all the list data items present present inside the given tuple only if the list is having middle value.
+85. WAP to print all the list data items present inside the given tuple only if the list is having middle value.
 
