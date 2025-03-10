@@ -15,5 +15,8 @@ class allll(p3,p2,p1):
     pass
     # def add(self):
     #     print('alll')
+    
 ob=allll()
 ob.add()
+
+
