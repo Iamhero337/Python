@@ -1,0 +1,3 @@
+1. WAP to create a class called hospital and create min 4 object method.
+2. WAP to create a class called flipkart and create methods buy and cancel the order. In this case the customer will add be added as object.
+3.WAP to create a class library create method issue book,return book. In this  case student will act as object each and every student can take only 5 books, students can issue books only if present in library.
