@@ -1,0 +1,1 @@
+1. WAP to check weather the char is vowel or not.
