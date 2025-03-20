@@ -1,0 +1,1 @@
+print(list(map(lambda n:n**2, range(1,100))))

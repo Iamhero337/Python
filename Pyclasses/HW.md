@@ -113,10 +113,18 @@
 81. WAP to extract al key value paris from the dictionary only if key and value are exactly equal.
 
 
-# 27-02-26 (Recusion)
+# 27-02-25 (Recusion)
 82. WAP to find the sum of n natural numbers.
 83. WAP to Extract string data items in the given list collection.
 
 84. WAP to count the no. of uppercase alphabets present inside the given string using recursion.
 85. WAP to print all the list data items present inside the given tuple only if the list is having middle value.
 
+# 20-03-25 (Lambda)
+
+86. Even or not(means odd).
+87. WAP to find out square of a int using lambda func.
+88. WAP to print square of an int if the given value is even else print cube of the number.
+89. WAP to print a value in reverse if the given value is collection else print as it is.
+90. WAP to find the square of all the values present b/w the range of 1to5.
+91. WAP to find a factorial of all the numbers present inside a homo list of colln. 
