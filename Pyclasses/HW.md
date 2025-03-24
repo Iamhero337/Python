@@ -101,19 +101,19 @@
 75. WAP to extract all string data items from the given list and join them with the `*` operator.
 76. WAP to create 4 different function to perform addtion, substraction, mulliplication and division.
 77. WAPTE all the digits from the given string.
-78.  reverse a string and keep the words as it is( I love you, you love I).
+78. reverse a string and keep the words as it is( I love you, you love I).
 
 # 24-02-25
 
-79. take input:'hello* hI byE bye' and output:'hELLO* HI BYE bye'.
+79. take input:'hello*hI byE bye' and output:'hELLO* HI BYE bye'.
 
 # 26-02-25 (Packing)
 
 80. WAP to extract all the key value pairs from dictionary only if length of key is exactly equal to 3 and value should be of list collection.
 81. WAP to extract al key value paris from the dictionary only if key and value are exactly equal.
 
-
 # 27-02-25 (Recusion)
+
 82. WAP to find the sum of n natural numbers.
 83. WAP to Extract string data items in the given list collection.
 
@@ -127,9 +127,10 @@
 88. WAP to print square of an int if the given value is even else print cube of the number.
 89. WAP to print a value in reverse if the given value is collection else print as it is.
 90. WAP to find the square of all the values present b/w the range of 1to5.
-91. WAP to find a factorial of all the numbers present inside a homo list of colln. 
+91. WAP to find a factorial of all the numbers present inside a homo list of colln.
 
 # 24-03-2025 (next())
+
 92. use next
 93. WAP to extract all the float numbers from a given list using the gernertaor function.
 95. WAP to generate all the prime number from 2 to n using generator func.
