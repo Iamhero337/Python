@@ -128,3 +128,8 @@
 89. WAP to print a value in reverse if the given value is collection else print as it is.
 90. WAP to find the square of all the values present b/w the range of 1to5.
 91. WAP to find a factorial of all the numbers present inside a homo list of colln. 
+
+# 24-03-2025 (next())
+92. use next
+93. WAP to extract all the float numbers from a given list using the gernertaor function.
+95. WAP to generate all the prime number from 2 to n using generator func.
