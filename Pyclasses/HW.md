@@ -134,3 +134,7 @@
 92. use next
 93. WAP to extract all the float numbers from a given list using the gernertaor function.
 95. WAP to generate all the prime number from 2 to n using generator func.
+
+# 25-03-
+
+96. WAP to get fact number b/w range 1 to 100 store the output in the form of tuple.
