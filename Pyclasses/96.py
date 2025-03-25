@@ -20,7 +20,8 @@
 
 
 def fact(i=1,f=1,n):
-    while i>n:
+    if i>n:
         return 
     fact(i+1,f*i,n)
 fact(5)
+
